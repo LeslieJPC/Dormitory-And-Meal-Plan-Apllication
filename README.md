@@ -76,7 +76,7 @@ The application is developed in C# using Windows Forms and consists of two forms
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Author
-- Leslie Cofer
+- Leslie
 
 Feel free to reach out for any questions or contributions. Happy coding!
 
